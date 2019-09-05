@@ -1,0 +1,6 @@
+Red 22
+Blue 20
+Green 16
+Yellow 18
+Black 3
+White 8
